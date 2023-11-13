@@ -9,8 +9,24 @@ body{
 }
 
 a{
-    color: purple;
-    font-family: Arial;
+    color: rgb(162, 86, 0);
+    font-family: system-ui;
+    text-decoration: none;
+}
+
+a.page {
+    margin-left: 30px;
+}
+
+
+a:hover{
+    color: rgb(255, 150, 30);
+    text-decoration: solid;
+}
+
+.pages {
+    margin-top: 20px;
+    
 }
 
 header{
